@@ -32,3 +32,22 @@ All plots are automatically saved to the `graphs/` directory:
 | `09_quality_by_alcohol_range.png` | Average quality score binned across distinct alcohol brackets |
 
 ---
+## Directory Structure
+
+```text
+.
+├── Wine_Quality_assesment_EDA_project.py
+├── winequality-red.xlsx
+├── winequality-white.xlsx
+├── requirements.txt
+├── README.md
+└── graphs/
+    ├── 01_wine_type_distribution.png
+    ├── 02_quality_distribution.png
+    ├── 03_alcohol_vs_quality.png
+    ├── 04_volatile_acidity_vs_quality.png
+    ├── 05_alcohol_by_wine_type.png
+    ├── 06_average_quality_by_type.png
+    ├── 07_alcohol_distribution.png
+    ├── 08_correlation_matrix.png
+    └── 09_quality_by_alcohol_range.png
