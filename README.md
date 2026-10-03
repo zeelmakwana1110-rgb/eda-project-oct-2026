@@ -32,7 +32,7 @@ All plots are automatically saved to the `graphs/` directory:
 | `09_quality_by_alcohol_range.png` | Average quality score binned across distinct alcohol brackets |
 
 ---
-## Directory Structure
+## 📁 Directory Structure
 
 ```text
 .
